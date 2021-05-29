@@ -18,7 +18,7 @@
     "path": "^0.12.7",
     "request": "^2.85.0",
     "steam-user": "git+https://github.com/DoctorMcKay/node-steam-user.git",
-    "ws": "^5.1.1",
+    "ws": "^7.4.6",
     "xml2js": "^0.4.19"
   }
 }
